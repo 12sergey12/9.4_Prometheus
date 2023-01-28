@@ -5,7 +5,7 @@
 
 ### Задание 1
 
-Установите Prometheus.
+###### Установите Prometheus.
 
 *Приведите скриншот systemctl status prometheus, где будет написано: prometheus.service — Prometheus Service Netology Lesson 9.4 — [Ваши ФИО].*
 
@@ -16,7 +16,7 @@
 
 ### Задание 2
 
-Установите Node Exporter.
+###### Установите Node Exporter.
 
 *Приведите скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО].*
 
@@ -29,7 +29,7 @@
 
 ### Задание 3
 
-Подключите Node Exporter к серверу Prometheus.
+###### Подключите Node Exporter к серверу Prometheus.
 
 *Приложите скриншот конфига из интерфейса Prometheus вкладки Status > Configuration.*
 
@@ -46,7 +46,7 @@
 
 ### Задание 4*
 
-Установите Grafana.
+###### Установите Grafana.
 
 *Приложите скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ваши ФИО.*
 
@@ -57,9 +57,9 @@
 
 ### Задание 5*
 
-Интегрируйте Grafana и Prometheus.
+###### Интегрируйте Grafana и Prometheus.
 
-*Приложите скриншот дашборда (ID:11074) с поступающими туда данными из Node Exporter.*
+*Приложите скриншот дашборда (ID:1860) с поступающими туда данными из Node Exporter.*
 
 ![monitoring](https://github.com/12sergey12/9.4_Prometheus/blob/main/images/9.4-5_Prometheus_localhost.png)
 
